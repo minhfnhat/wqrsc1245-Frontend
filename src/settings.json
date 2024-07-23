@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transform your workplace into a hub of productivity and creativity with real esti. Where innovation meets efficiency.",
+        "title": "Reimagine Your Workspace with real esti"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Transform your workplace into a hub of productivity and creativity with real esti. Where innovation meets efficiency.",
+        "title": "Reimagine Your Workspace with real esti"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Transform your workplace into a hub of productivity and creativity with real esti. Where innovation meets efficiency.",
+        "title": "Reimagine Your Workspace with real esti"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transform your workplace into a hub of productivity and creativity with real esti. Where innovation meets efficiency.",
+        "title": "Reimagine Your Workspace with real esti"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transform your workplace into a hub of productivity and creativity with real esti. Where innovation meets efficiency.",
+        "title": "Reimagine Your Workspace with real esti"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your workplace into a hub of productivity and creativity with real esti. Where innovation meets efficiency.",
+        "title": "Reimagine Your Workspace with real esti"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transform your workplace into a hub of productivity and creativity with real esti. Where innovation meets efficiency.",
+        "title": "Reimagine Your Workspace with real esti"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transform your workplace into a hub of productivity and creativity with real esti. Where innovation meets efficiency.",
+        "title": "Reimagine Your Workspace with real esti"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your workplace into a hub of productivity and creativity with real esti. Where innovation meets efficiency.",
+        "title": "Reimagine Your Workspace with real esti"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Reimagine Your Workspace with real esti",
+  "subtitle": "Transform your workplace into a hub of productivity and creativity with real esti. Where innovation meets efficiency."
+}
